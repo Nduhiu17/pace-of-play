@@ -1,0 +1,100 @@
+body {
+    background-color: #262524;
+    color: white;
+
+}
+
+.main-wrapper{
+    background: #262524;
+    width: 99vw;
+    box-sizing: border-box;
+}
+
+.upper-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.revenue-loan-upper-left{
+    width: 39.5vw;
+    background: #444142;
+    box-sizing: border-box;
+
+}
+
+.upper-right{
+    width: 59vw;
+    background: #262524;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+
+.upper-section{
+    height: 64vh;
+}
+
+.header{
+    height: 3vh;
+    background: #413F40;
+}
+
+.upper-right > div{
+    background: #262524;
+    display: flex;
+    height: 31.4vh;
+
+}
+
+.upper-right-child{
+    background: #413F40;
+    display: flex;
+    width: 19.3vw;
+    box-sizing: border-box;
+}
+
+.top-upper-right,.bottom-upper-right{
+    background: #413F40;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lower-section{
+    display: flex;
+    height: 29.5vh;
+    margin-top: 1vh;
+    justify-content: space-between;
+}
+
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.right-lower-section{
+    display: flex;
+    width: 39.2vw;
+    background: #444142;
+    margin-left: 0.4vw;
+    box-sizing: border-box;
+}
+
+.lower-right-child-one,.lower-right-child-two,.lower-right-child-three{
+    background: #444142;
+    width: 19.56vw;
+    box-sizing: border-box;
+}
+
+
+.left-lower-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: #262524;
+    width:59.9vw;
+    box-sizing: border-box;
+}
